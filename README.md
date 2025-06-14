@@ -69,5 +69,5 @@ COPY . /usr/share/nginx/html
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+Developer : German SONKOUE
+For questions or feedback, please contact [yimhelgerman@gmail.com](mailto:yimhelgerman@gmail.com).
