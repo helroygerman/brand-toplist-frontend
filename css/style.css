@@ -1,0 +1,15 @@
+.card-img-top {
+  object-fit: contain;
+  height: 80px;
+  background-color: #f9f9f9;
+  padding: 10px;
+}
+.stars {
+  color: #ffc107;
+  font-size: 1.1rem;
+}
+
+.stars-number {
+  color: #6c757d;
+  font-size: 1.2rem;
+}
